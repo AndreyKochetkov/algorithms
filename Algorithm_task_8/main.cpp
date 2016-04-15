@@ -90,7 +90,7 @@ int main() {
         }
     }
     swap(vector1[0], vector1[minIndex]);
-    
+
     int tempY = 0;
     int tempX = 0;
     for (int i = 1; i < vector1.size(); ++i) {
