@@ -1,7 +1,15 @@
 # algorithms
 
-basic algorithms
+---
 
-abstract structures, sorts, hash functons, tree
+### basic algorithms
 
-implementation: C++
+* abstract structures
+
+* sorts
+
+* hash functons
+
+* trees
+
+### implementation: C/C++
